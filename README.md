@@ -1,5 +1,5 @@
 # task
-Kozar Science - Unity Developer Task<p>
+Unity Developer Task<p>
 
 Öncelikle bir oda tasarlamalısınız. Oda tasarımını sizlere bırakıyoruz. Bu bir soyunma odası tarzında olabilir. Spor salonlarındaki gibi kilitli dolaplar, oturmak için uzun banklar vs. Çok detaylı bir oda tasarlamanıza gerek yok sadece özen gösterip amacına hizmet etmesi yeterli. Bir de odaya bir kapı koymalısınız. Bu kapı oyunu bitirme fonksiyonumuz olacak. Karakterimiz W,A,S,D tuşlarını kullanarak hareket edebilmeli ( W ileri, A sol, S geri, D sağ ) ve fare ile etrafına bakabilmeli. Ekranın tam ortasına FPS oyunlarındaki gibi bir crosshair ( imleç ) koyabilirsiniz. Bu crosshair objeleri tutup sürüklerken işimize yarayacak. Ekte 8 adet .fbx formatında 3d model bulunuyor. Bu modelleri bir masa üzerine yan yana sıralı bir şekilde yerleştirmenizi bekliyoruz. Bu modeller 4 farklı kategoride bulunuyorlar; <p>
 Baret - Şapka <p>
